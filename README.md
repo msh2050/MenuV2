@@ -16,3 +16,4 @@ This new version handles both the LCD and the keypad
 
 Menu menu(menuItems); //Set up menu
 That's it, you're done!
+  
